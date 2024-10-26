@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
+
+@import url("components/container.css"); 
+@import url("components/avatar.css"); 
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Josefin sans';
+	font-size: 18px; 
+}
+
+h1, h2, h3 {
+	font-family: 'Lilita one';
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+img {
+	width: 150px;
+	border-radius: 6px;
+}
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
